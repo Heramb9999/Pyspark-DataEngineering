@@ -1,0 +1,42 @@
+{"user": {
+    "id": "9999912398",
+    "name": "Kelly Clarkson",
+    "friends": [
+        {
+            "name": "Tom Cruise",
+            "id": "55555555555555",
+            "likes": {"data": [
+                {
+                    "category": "Movie",
+                    "name": "The Shawshank Redemption",
+                    "id": "103636093053996",
+                    "created_time": "2012-11-20T15:52:07+0000"
+                },
+                {
+                    "category": "Community",
+                    "name": "Positiveretribution",
+                    "id": "471389562899413",
+                    "created_time": "2012-12-16T21:13:26+0000"
+                }
+            ]}
+        },
+        {
+            "name": "Tom Hanks",
+            "id": "88888888888888",
+            "likes": {"data": [
+                {
+                    "category": "Journalist",
+                    "name": "Janelle Wang",
+                    "id": "136009823148851",
+                    "created_time": "2013-01-01T08:22:17+0000"
+                },
+                {
+                    "category": "Tv show",
+                    "name": "Now With Alex Wagner",
+                    "id": "305948749433410",
+                    "created_time": "2012-11-20T06:14:10+0000"
+                }
+            ]}
+        }
+    ]
+}}
